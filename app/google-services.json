@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19777185444",
+    "project_id": "sistemacrud-886d6",
+    "storage_bucket": "sistemacrud-886d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19777185444:android:ba98a842e08ce65575a831",
+        "android_client_info": {
+          "package_name": "com.weldoncardoso.sistemacrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19777185444-8tqueq41e9f7qti4irgr7rj78g85i3oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdLzu_rL9yTi-R29toLM1-7OA7Erf9j-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19777185444-8tqueq41e9f7qti4irgr7rj78g85i3oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
